@@ -1,0 +1,18 @@
+html, body {
+  background: #C4F1EE;
+  height: 100%;
+  width: 100%;
+}
+
+#outline{
+  border: 3px solid black;
+  background-color: #abaac5;
+  height: 90px;
+  width: 350px;
+  
+  padding: 40px;
+  font-size: 3.1rem;
+  font-weight: bold;
+  
+  
+}
